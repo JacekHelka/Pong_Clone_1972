@@ -1,3 +1,6 @@
 # Pong_1972_Clone
-![Pong ekran startowy]https://github.com/JacekHelka/Pong_Clone_1972/blob/master/Pong_Play_1.png
+![Pong ekran startowy]
+
+<img src="[images/logo.png](https://github.com/JacekHelka/Pong_Clone_1972/blob/master/Pong_Play_1.png)" alt="PONG start screen" width="300"/>
+
 
